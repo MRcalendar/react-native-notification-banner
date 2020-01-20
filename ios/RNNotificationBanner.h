@@ -1,6 +1,6 @@
 #import <React/RCTUIManager.h>
 
-#import "BRYXBanner/BRYXBanner-Swift.h"
+@import BRYXBanner;
 
 @interface RNNotificationBanner : NSObject <RCTBridgeModule>
 
